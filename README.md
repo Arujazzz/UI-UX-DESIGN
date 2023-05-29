@@ -25,3 +25,6 @@ Shop, categories, and search: colors, font sizes, and product listing layout wer
 
 ## Other Screens 
 Other screens of the application have already been posted in the Visual Design folder
+
+## Takeaways
+It was a really interesting project and I’m pleased with how much we were able to get done in a small amount of time. To summarise, a key part of designing products is research and practice. Relying on our assumptions of the problems (and possible solutions) is never enough. It’s also interesting to see how some small changes to the process could have such a huge impact on product usage as a whole.
